@@ -1,0 +1,3 @@
+# wangEditor document
+
+English document
