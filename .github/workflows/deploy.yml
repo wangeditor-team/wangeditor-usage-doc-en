@@ -26,7 +26,7 @@ jobs:
     - name: download and replace # 下载现有文件，替换
       run: |
         git clone https://github.com/wangEditor/doc-en.git
-        mv doc doc-pages ## pages 项目，重命名
+        mv doc-en doc-pages ## pages 项目，重命名
         echo "---------- git clone ok ----------"
         cp -r ./_book/* ./doc-pages ## 用最新构建出来的文件，替换现有的
         echo "---------- replace ok ----------"
