@@ -1,6 +1,6 @@
 # Use textarea
 
-wangEditor no support `textarea` ,but you can use `onchange` come true submit rich text content from `textarea`
+WangEditor no support `textarea` ,but you can use `onchange` come true submit rich text content from `textarea`
 
 ```jsx
 <div id="div1">

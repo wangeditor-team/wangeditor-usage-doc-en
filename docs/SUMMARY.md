@@ -3,11 +3,11 @@
 
 - [Get Started](pages/01-get started/README.md)
 
-    - [BasicUsage](pages/01-get started/01-BasicUsage.md)
-    - [EditHight](pages/01-get started/02-editHight.md)
-    - [SplitMenusAndArea](pages/01-get started/03-splitMenusAndArea.md)
+    - [Basic Usage](pages/01-get started/01-Basic Usage.md)
+    - [Edit Hight](pages/01-get started/02-edit hight.md)
+    - [Split Toolbar And Area](pages/01-get started/03-split toolbar and Area.md)
     - [Textarea](pages/01-get started/04-textarea.md)
-    - [MultipleEditor](pages/01-get started/05-multipleEditor.md)
+    - [Multiple Editor](pages/01-get started/05-multiple editor.md)
     - [Zindex](pages/01-get started/06-Zindex.md)
     - [Placeholder](pages/01-get started/07-placeholder.md)
     - [AutoFocus](pages/01-get started/08-autoFocus.md)

@@ -2,7 +2,7 @@
 
 `customAlert` can deal global alert, default option is window.alert.
 
-if you feel browser  in-built alert no good, you can custom alert , that be easy unify alert style.
+If you feel browser  in-built alert no good, you can custom alert , that be easy unify alert style.
 
 ```jsx
 import { message } from 'antd';
