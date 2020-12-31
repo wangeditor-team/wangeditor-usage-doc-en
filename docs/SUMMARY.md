@@ -1,6 +1,17 @@
 
 ## Pages
 
+- [Get  Started](pages/01-get  started/README.md)
+
+    - [Basic Usage](pages/01-get  started/01-basic usage.md)
+    - [Edit Height](pages/01-get  started/02-edit height.md)
+    - [Split Toolbar And Textarea](pages/01-get  started/03-split toolbar and textarea.md)
+    - [Textarea](pages/01-get  started/04-textarea.md)
+    - [Multiple Editor](pages/01-get  started/05-multiple editor.md)
+    - [Zindex](pages/01-get  started/06-Zindex.md)
+    - [Placeholder](pages/01-get  started/07-placeholder.md)
+    - [Auto Focus](pages/01-get  started/08-auto focus.md)
+    - [Custom Alert](pages/01-get  started/09-custom alert.md)
 - [Get Started](pages/01-get started/README.md)
 
     - [Basic Usage](pages/01-get started/01-Basic Usage.md)
