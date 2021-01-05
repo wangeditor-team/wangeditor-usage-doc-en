@@ -1,6 +1,6 @@
-# Custom upload parameters
+# Custom Upload Parameters
 
-Some parameters can be customized when uploading pictures, such as `token` which used to pass verification. These parameters will be added to `formData`, then the whole will be uploaded to the server.
+Some parameters can be customized when uploading images, such as `token` which used to pass verification. These parameters will be added to `formData`, then the whole will be uploaded to the server.
 
 ```javascript
 editor.config.uploadImgParams = {

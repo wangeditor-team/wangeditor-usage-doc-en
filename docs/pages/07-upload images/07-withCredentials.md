@@ -1,4 +1,4 @@
-# withCredentials(pass cookie axross domains)
+# WithCredentials(pass cookie axross domains)
 
 You need to set `withCredentials`, if you want to pass cookies in the case of cross-domain.
 

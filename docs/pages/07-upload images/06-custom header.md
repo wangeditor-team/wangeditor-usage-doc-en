@@ -1,6 +1,6 @@
-# Custom header
+# Custom Header
 
-Add the http request header when uploading pictures.
+Adding the http request header when uploading images.
 
 ```javascript
 editor.config.uploadImgHeaders = {

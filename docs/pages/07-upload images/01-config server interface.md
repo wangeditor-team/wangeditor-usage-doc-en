@@ -1,7 +1,7 @@
-# Config server interface
-**Note: If you have trouble in uploading pictures, you can see the browser developer tools by and read the error message. **
+# Config Server Interface
+**Note: If you have trouble in uploading images, please open the browser developer tools and check the error message output by console.error. **
 
-# Config interface
+# Config Interface
 
 ```javascript
 const E = window.wangEditor
@@ -13,9 +13,9 @@ editor.config.uploadImgServer = '/upload-img'
 editor.create()
 ```
 
-The picture menu of the editor will display the tab and icon of the uploaded picture, after the configuration is complete, as shown in the figure below.
+The image menu of the editor will display the tab and icon of the uploaded image, after the configuration is complete, as shown in the figure below.
 
-<!-- TODO:这里上传图片的截图 -->
+![](../../images/upload-img.png)
 
 **It is important that the format of the server's return is!!!**
 

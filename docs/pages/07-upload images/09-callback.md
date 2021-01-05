@@ -1,6 +1,6 @@
-# The callback
+# The Callback
 
-You can use the callback function to handle the different stages of uploading pictures. The code example is as follows.
+You can use the callback function to handle the different stages of uploading images. The code example is as follows.
 
 ```javascript
 editor.config.uploadImgHooks = {
@@ -11,32 +11,32 @@ editor.config.uploadImgHooks = {
         // You can prevent users from uploading.
         return {
             prevent: true,
-            msg: '需要提示给用户的错误信息'
+            msg: 'the msg for user'
         }
     },
-    // The picture is uploaded and the result is returned, the picture is inserted successfully.
+    // The image is uploaded and the result is returned, the image is inserted successfully.
     success: function(xhr) {
         console.log('success', xhr)
     },
-    // The picture has been uploaded and server has returned the result, but an error occurred when inserting the picture.
+    // The image has been uploaded and server has returned the result, but an error occurred when inserting the image.
     fail: function(xhr, editor, resData) {
         console.log('fail', resData)
     },
-    // Error uploading pictures, it is usually http request error
+    // Error uploading images, it is usually http request error
     error: function(xhr, editor, resData) {
         console.log('error', xhr, resData)
     },
-    // Timeout while uploading pictures
+    // Timeout while uploading images
     timeout: function(xhr) {
         console.log('timeout')
     },
-    // The picture is uploaded and the result is returned, and I want to insert the picture into the editor by yourself.
+    // The image is uploaded and the result is returned, and I want to insert the image into the editor by myself.
     // For example, the format returned by the server is not `{errno: 0, data: [...] }` this style, you can use `customInsert`.
     customInsert: function(insertImgFn, result) {
         // `result` is the interface returned by th server.
         console.log('customInsert', result)
 
-        // `insertImgFn` can insert pictures into the editor, pass in the picture's src and execute the function.
+        // `insertImgFn` can insert images into the editor, pass in the image's src and execute the function.
         insertImgFn(result.data[0])
     }
 }
