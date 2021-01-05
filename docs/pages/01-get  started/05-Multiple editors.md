@@ -2,7 +2,7 @@
 
 WangEditor can create multiple editors in the same page.
 
-```jsx
+```html
 <head>
     <style type="text/css">
         .toolbar {

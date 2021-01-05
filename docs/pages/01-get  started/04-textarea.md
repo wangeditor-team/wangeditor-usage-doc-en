@@ -2,7 +2,7 @@
 
 We can not directly submit rich text in `textarea` . Instead, you should use `editor.config.onchange` to update textarea content:
 
-```jsx
+```html
 <div id="div1">
     <p>webcomle use <b>wangEditor</b> rich text editor</p>
 </div>
