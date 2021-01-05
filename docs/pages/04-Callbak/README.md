@@ -1,2 +1,2 @@
 # Callback 
-Please refer to subdirectory content.
+Please refer to subdirectory.

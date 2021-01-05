@@ -1,8 +1,10 @@
+# onchange
+
 ## Set onchange callback
 
-Set `onchange` after , when user operate (include mouse click、keyboard operate and so on.) change content , `onchange` will be auto emit.
+When the `onchange` function set, it will be executed automatically after the content change due to user's actions, such as mouse click, keyboard typing and so on.
 
-If you need change `onchange` delay time( when no operate XXX millisecond before,  `onchange` will be emit)， can access to `onchangeTimeout` set. More info see [history setting](../02-deal\ content/07-history.md).
+In the default case , `onchange` will executed automatically when the use does not operate for 200ms. If you want change delay time of `onchange`, you can use `editor.config.onchangeTimeout` property. More info about it, you can see `set history config`.
 
 ```jsx
 const E = window.wangEditor
@@ -12,8 +14,8 @@ const editor = new E("#div1")
 editor.config.onchange = function (newHtml) {
     console.log('new html when change before', newHtml)
 }
-// onchange emit time default value is 200ms
-editor.config.onchangeTimeout = 500 // change to 500ms
+// set the execution frequency of onchange, it's initialized to 200 milliseconds.
+editor.config.onchangeTimeout = 500 // 修改为 500ms
 
 editor.create()
 ```
