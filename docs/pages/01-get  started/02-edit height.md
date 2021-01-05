@@ -1,6 +1,6 @@
-# Editing area height
+# Editable area height
 
-You can use `editor.config.height` property to change editing area height in wangEditor. By default, the editing area height is `300px`.
+You can use `editor.config.height` property to change editable area height in wangEditor. By default, the editable area height is `300px`.
 
 ```jsx
 const editor = new E('#div1')

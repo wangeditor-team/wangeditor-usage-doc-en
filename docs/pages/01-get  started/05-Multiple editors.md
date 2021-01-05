@@ -1,8 +1,8 @@
 # Multiple editor
 
-WangEditor can create multiple editor in the same page.
+WangEditor can create multiple editors in the same page.
 
-```
+```jsx
 <head>
     <style type="text/css">
         .toolbar {
@@ -20,7 +20,7 @@ WangEditor can create multiple editor in the same page.
     </div>
     <div style="padding: 5px 0; color: #ccc">split section</div>
     <div id="div2" class="text">
-        <p>first demo（menus and editing area split）</p>
+        <p>first demo（menus and editable area split）</p>
     </div>
 
     <div id="div3">

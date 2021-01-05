@@ -1,10 +1,10 @@
-# Split toolbar and editing area
+# Split toolbar and editable area
 
-Toolbar and editing area allows to separated in wangEditor.
+Toolbar and editable area allows to separated in wangEditor.
 
-Because Toolbar and editing area is controlled element in wangEditor, you can customize styles such as fixed toolbar、auto add editing area height and so on.
+Because Toolbar and editable area is controlled element in wangEditor, you can customize styles such as fixed toolbar、auto add editing area height and so on.
 
-```
+```jsx
 <head>
     <style>
         .toolbar {
@@ -34,3 +34,4 @@ Because Toolbar and editing area is controlled element in wangEditor, you can cu
     </script>
 </body>
 ```
+From upper code , you can knows that toolbar and editable area is two `div` , that means you can set any style you want.
