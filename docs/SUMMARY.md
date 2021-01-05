@@ -12,17 +12,6 @@
     - [Placeholder](pages/01-get  started/07-Placeholder.md)
     - [Auto Focus](pages/01-get  started/08-Auto focus.md)
     - [Custom Alert](pages/01-get  started/09-Custom alert.md)
-- [Get Started](pages/01-get started/README.md)
-
-    - [Basic Usage](pages/01-get started/01-Basic Usage.md)
-    - [Edit Hight](pages/01-get started/02-edit hight.md)
-    - [Split Toolbar And Area](pages/01-get started/03-split toolbar and Area.md)
-    - [Textarea](pages/01-get started/04-Textarea.md)
-    - [Multiple Editor](pages/01-get started/05-multiple editor.md)
-    - [Zindex](pages/01-get started/06-Zindex.md)
-    - [Placeholder](pages/01-get started/07-placeholder.md)
-    - [AutoFocus](pages/01-get started/08-autoFocus.md)
-    - [CustomAlert](pages/01-get started/09-customAlert.md)
 - [Deal Content](pages/02-deal content/README.md)
 
     - [SetContent](pages/02-deal content/01-setContent.md)
