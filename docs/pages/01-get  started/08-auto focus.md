@@ -1,4 +1,4 @@
-# Auto focus
+# Auto Focus
 
 By default, the editable area will be focused when initializing. If you want to cancel auto focus that using `editor.config.focus`.
 

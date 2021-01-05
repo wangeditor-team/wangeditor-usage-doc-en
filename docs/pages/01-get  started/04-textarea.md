@@ -1,4 +1,4 @@
-# Use textarea
+# Use Textarea
 
 We can not directly submit rich text in `textarea` . Instead, you should use `editor.config.onchange` to update textarea content:
 

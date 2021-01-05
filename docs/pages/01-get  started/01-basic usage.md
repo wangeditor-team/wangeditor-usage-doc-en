@@ -1,4 +1,4 @@
-# Basic usage
+# Basic Usage
 ## CDN
 
 ```jsx

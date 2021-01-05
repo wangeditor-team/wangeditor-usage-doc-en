@@ -1,4 +1,4 @@
-# Split toolbar and editable area
+# Split Toolbar and Editable Area
 
 Toolbar and editable area allows to separated in wangEditor.
 

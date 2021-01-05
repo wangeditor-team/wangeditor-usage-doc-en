@@ -1,4 +1,4 @@
-# Custom alert
+# Custom Alert
 
 When you want customize alert that use `editor.config.customAlert` . By default, wangEditor will be invoking `window.alert`.
 

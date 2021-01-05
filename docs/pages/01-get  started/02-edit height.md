@@ -1,4 +1,4 @@
-# Editable area height
+# Editable Area Height
 
 You can use `editor.config.height` property to change editable area height in wangEditor. By default, the editable area height is `300px`.
 

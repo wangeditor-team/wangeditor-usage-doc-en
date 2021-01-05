@@ -1,4 +1,4 @@
-# Multiple editor
+# Multiple Editor
 
 WangEditor can create multiple editors in the same page.
 
