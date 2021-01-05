@@ -1,5 +1,5 @@
 # Destroy Editor
-You can destory editor instanc by using `editor.destroy()`. The following example of Vue2.0:
+You can destroy editor instance by using `editor.destroy()`. The following example of Vue2.0:
 
 ```js
 import E from 'wangeditor'

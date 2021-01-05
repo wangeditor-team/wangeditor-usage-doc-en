@@ -1,4 +1,4 @@
-# Scroll To Head
+# Scroll to Head
 As following figure, you can get all titles of editor content, and scrolling to specified title by using `editor.scrollToHead(headId)` API.
 
 ![](../../images/scroll-to-head.png)
@@ -6,7 +6,7 @@ As following figure, you can get all titles of editor content, and scrolling to 
 **Note it is supported from v4.5.0.**
 
 ## Get All Titles
-You can get all titles of editor by listening `onCatalogChange` callback, if title change, and it will trigger `onCatalogChange` callback.
+You can get all titles of editor by listening `onCatalogChange` callback, if title changed, and it will trigger `onCatalogChange` callback.
 
 ```js
 editor.config.onCatalogChange = function (headList) {
@@ -27,11 +27,11 @@ editor.config.onCatalogChange = function (headList) {
 }
 ```
 
-## Scroll To Specified Title
+## Scroll to Specified Title
 You can invoke `editor.scrollToHead(headId)` to scroll to specified title. Getting `headId` by id attr as above example format.
 
 ## Show Content
-You can get html content by using `editor.txt.html()` API. The title also is with `id` attr. The format as follows:
+You can get html content by using `editor.txt.html()` API. The title is also with `id` attr. The format as follows:
 
 ```js
 <h1 id="eold9">title1</h1>
