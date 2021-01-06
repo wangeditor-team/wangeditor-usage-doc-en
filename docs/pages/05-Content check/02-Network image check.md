@@ -1,4 +1,4 @@
-# Network image check
+# Network Image Check
 You can use `editor.config.linkImgCheck` to customize check rules of network image.
 
 ```jsx

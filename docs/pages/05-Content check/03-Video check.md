@@ -1,4 +1,4 @@
-# Video check
+# Video Check
 You can use `editor.config.linkVedioCheck` to customize check rules of network video.
 
 ```jsx

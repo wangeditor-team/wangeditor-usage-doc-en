@@ -33,9 +33,9 @@
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
 - [Content Check](pages/05-Content check/README.md)
 
-    - [Link Check](pages/05-Content check/01-Link check.md)
-    - [Network Image Check](pages/05-Content check/02-Network image check.md)
-    - [Video Check](pages/05-Content check/03-Video check.md)
+    - [Link Check](pages/05-Content check/01-Link Check.md)
+    - [Network Image Check](pages/05-Content check/02-Network Image Check.md)
+    - [Video Check](pages/05-Content check/03-Video Check.md)
 - [Paste Filter]()
     - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
     - [IgnorePictures](pages/06-paste-filter/02-ignorePictures.md)
