@@ -1,4 +1,4 @@
-# Insert event of network image
+# Insert Event of Network Image
 
 ```jsx
 const E = window.wangEditor

@@ -1,6 +1,6 @@
 # onchange
 
-## Set onchange callback
+## Set Onchange Callback
 
 When the `onchange` function set, it will be executed automatically after the content change due to user's actions, such as mouse click, keyboard typing and so on.
 

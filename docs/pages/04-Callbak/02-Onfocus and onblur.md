@@ -1,4 +1,4 @@
-# Onfocus and onblur
+# Onfocus and Onblur
 Editing area focus callback and blur callback.
 
 ```jsx

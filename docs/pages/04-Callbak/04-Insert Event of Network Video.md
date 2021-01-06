@@ -1,4 +1,4 @@
-# Insert event of network video
+# Insert Event of Network Video
 
 After inserting network video, you can customize check rule of video use `editor.config.onlineVideoCallback`.
 
