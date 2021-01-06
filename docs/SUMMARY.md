@@ -1,17 +1,17 @@
 
 ## Pages
 
-- [Get  Started](pages/01-get  started/README.md)
+- [Get Started](pages/01-Get started/README.md)
 
-    - [Basic Usage](pages/01-get  started/01-Basic usage.md)
-    - [Edit Height](pages/01-get  started/02-Edit height.md)
-    - [Split Toolbar And Textarea](pages/01-get  started/03-Split toolbar and textarea.md)
-    - [Textarea](pages/01-get  started/04-Textarea.md)
-    - [Multiple Editors](pages/01-get  started/05-Multiple editors.md)
-    - [Zindex](pages/01-get  started/06-Zindex.md)
-    - [Placeholder](pages/01-get  started/07-Placeholder.md)
-    - [Auto Focus](pages/01-get  started/08-Auto focus.md)
-    - [Custom Alert](pages/01-get  started/09-Custom alert.md)
+    - [Basic Usage](pages/01-Get started/01-basic usage.md)
+    - [Edit Height](pages/01-Get started/02-edit height.md)
+    - [Split Toolbar And Textarea](pages/01-Get started/03-split toolbar and textarea.md)
+    - [Textarea](pages/01-Get started/04-textarea.md)
+    - [Multiple Editors](pages/01-Get started/05-Multiple editors.md)
+    - [Zindex](pages/01-Get started/06-Zindex.md)
+    - [Placeholder](pages/01-Get started/07-placeholder.md)
+    - [Auto Focus](pages/01-Get started/08-auto focus.md)
+    - [Custom Alert](pages/01-Get started/09-custom alert.md)
 - [Deal Content](pages/02-deal content/README.md)
 
     - [SetContent](pages/02-deal content/01-setContent.md)
