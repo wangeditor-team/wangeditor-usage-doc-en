@@ -1,6 +1,6 @@
 # Placeholder
 
-You can use `editor.config.placeholder` change placeholder text.
+You can use `editor.config.placeholder` to change placeholder text.
 
 ```jsx
 const editor = new E('#div1')

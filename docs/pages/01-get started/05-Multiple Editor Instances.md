@@ -1,8 +1,8 @@
-# multiple editor on one web page
+# Multiple Editor Instances
 
-WangEditor can create multiple editor on one web page
+WangEditor can create multiple editor instance in the same page.
 
-```
+```html
 <head>
     <style type="text/css">
         .toolbar {
@@ -20,7 +20,7 @@ WangEditor can create multiple editor on one web page
     </div>
     <div style="padding: 5px 0; color: #ccc">split section</div>
     <div id="div2" class="text">
-        <p>first demo（menus and editing area split）</p>
+        <p>first demo（menus and editable area split）</p>
     </div>
 
     <div id="div3">

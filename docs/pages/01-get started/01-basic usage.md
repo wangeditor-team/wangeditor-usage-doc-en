@@ -1,14 +1,5 @@
-# Basic usage
-
-## Download
-
-NPM `npm i wangeditor --save`
-
-CDN [`https://unpkg.com/wangeditor/dist/wangEditor.min.js`](https://unpkg.com/wangeditor/dist/wangEditor.min.js)
-
-### CDN
-
-example
+# Basic Usage
+## CDN
 
 ```jsx
 <div id="div1">
@@ -24,9 +15,7 @@ example
 </script>
 ```
 
-### Npm
-
-example
+## Npm
 
 ```jsx
 import E from 'wangeditor'
