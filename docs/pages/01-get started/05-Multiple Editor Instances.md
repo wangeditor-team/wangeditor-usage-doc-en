@@ -1,6 +1,6 @@
-# Multiple Editor
+# Multiple Editor Instances
 
-WangEditor can create multiple editors in the same page.
+WangEditor can create multiple editor instance in the same page.
 
 ```html
 <head>
