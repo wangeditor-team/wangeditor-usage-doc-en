@@ -1,17 +1,18 @@
 
 ## Pages
 
-- [Get Started](pages/01-get started/README.md)
+- [Get Started](pages/01-Get started/README.md)
 
-    - [Basic Usage](pages/01-get started/01-Basic Usage.md)
-    - [Edit Hight](pages/01-get started/02-edit hight.md)
-    - [Split Toolbar And Area](pages/01-get started/03-split toolbar and Area.md)
-    - [Textarea](pages/01-get started/04-textarea.md)
-    - [Multiple Editor](pages/01-get started/05-multiple editor.md)
-    - [Zindex](pages/01-get started/06-Zindex.md)
-    - [Placeholder](pages/01-get started/07-placeholder.md)
-    - [AutoFocus](pages/01-get started/08-autoFocus.md)
-    - [CustomAlert](pages/01-get started/09-customAlert.md)
+
+    - [Basic Usage](pages/01-Get started/01-basic usage.md)
+    - [Edit Height](pages/01-Get started/02-edit height.md)
+    - [Split Toolbar And Textarea](pages/01-Get started/03-split toolbar and textarea.md)
+    - [Textarea](pages/01-Get started/04-textarea.md)
+    - [Multiple Editors](pages/01-Get started/05-Multiple editors.md)
+    - [Zindex](pages/01-Get started/06-Zindex.md)
+    - [Placeholder](pages/01-Get started/07-placeholder.md)
+    - [Auto Focus](pages/01-Get started/08-auto focus.md)
+    - [Custom Alert](pages/01-Get started/09-custom alert.md)
 - [Deal Content](pages/02-deal content/README.md)
 
     - [SetContent](pages/02-deal content/01-setContent.md)
@@ -27,3 +28,13 @@
     - [Onfocus And Onblur](pages/04-Callbak/02-Onfocus and onblur.md)
     - [Insert Internet Callback](pages/04-Callbak/03-Insert internet callback.md)
     - [Insert Internet Video Callback](pages/04-Callbak/04-Insert internet video callback.md)
+- [Menu](pages/03-menu/README.md)
+
+    - [SetMenus](pages/03-menu/01-setMenus.md)
+    - [SetColors](pages/03-menu/02-setColors.md)
+    - [SetFontFamily](pages/03-menu/03-setFontFamily.md)
+    - [SetFontSize](pages/03-menu/04-setFontSize.md)
+    - [SetLineHeight](pages/03-menu/05-setLineHeight.md)
+    - [SetEmotions](pages/03-menu/06-setEmotions.md)
+    - [HightlightCode](pages/03-menu/07-hightlightCode.md)
+    - [SetFullScreen](pages/03-menu/08-setFullScreen.md)

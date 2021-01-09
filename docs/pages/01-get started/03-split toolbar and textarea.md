@@ -1,9 +1,10 @@
-# Split menus and editing area
-Toolbar and editing area can be separated(in wangEditor just like Zhihu and so on).
+# Split Toolbar and Editable Area
 
-If that,Toolbar and editing area can controlle element respectively, that can custom styles. for example: fixed menu、auto add editing area height and so on.
+Toolbar and editable area allows to separated in wangEditor.
 
-```
+Because Toolbar and editable area is controlled element in wangEditor, you can customize styles such as fixed toolbar、auto add editing area height and so on.
+
+```html
 <head>
     <style>
         .toolbar {
@@ -33,5 +34,4 @@ If that,Toolbar and editing area can controlle element respectively, that can cu
     </script>
 </body>
 ```
-
-see upper code , menu and editing area is two `div`, position and size can set as whatever you want.
+From upper code , you can knows that toolbar and editable area is two `div` , that means you can set any style you want.
