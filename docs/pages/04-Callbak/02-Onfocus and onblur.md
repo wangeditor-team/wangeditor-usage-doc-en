@@ -1,5 +1,5 @@
 # Onfocus and Onblur
-Editing area focus callback and blur callback.
+Editable area focus callback and blur callback.
 
 ```jsx
 const E = window.wangEditor

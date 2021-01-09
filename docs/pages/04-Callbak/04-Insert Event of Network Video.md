@@ -6,7 +6,6 @@ After inserting network video, you can customize check rule of video use `editor
 const E = window.wangEditor
 const editor = new E('#div1')
 
-// 自定义检查插入视频的回调
 // customizing insert event of network video
 editor.config.onlineVideoCallback = function (video) {
 // you can customize content of callback after inserting a video successfully.
