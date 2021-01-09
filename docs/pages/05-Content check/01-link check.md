@@ -1,5 +1,5 @@
 # Link Check
-You can use `editor.config.linkCheck` to customize check rules of link
+You can use `editor.config.linkCheck` to customize check rules of link.
 
 ```jsx
 const E = window.wangEditor
