@@ -22,10 +22,10 @@
     <br />
     <a href="http://www.wangeditor.com"><strong>Offical website</strong></a>
     ·
-    <a href="http://www.wangeditor.com/doc/"><strong>Explore the docs »</strong></a>
+    <a href="https://doc.wangeditor.com/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="./README-zh-cn.md">Chinese Docs</a>
+    <a href="https://doc.wangeditor.com/">Chinese Docs</a>
     ·
     <a href="https://codepen.io/collection/DNmPQV">View Demo</a>
     ·
