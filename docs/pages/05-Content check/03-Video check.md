@@ -9,12 +9,12 @@ const editor = new E('#div1')
 editor.config.linkImgCheck = function(video) {
         // Have three case
 		
-		// 1. If return true,mean that check access.
+		// 1. If return true,mean that check passed.
     return true
-		//2. If return string, mean that check not access. this case editor will stop insert video, and alert error info(that is return string)
-        // return 'video have xxx error'
+		//2. If return string, mean that check failed. this case editor will stop insert video, and alert error info(when return string).
+        // return 'video have xxx error'.
 		
-		// If return undefined, mean that check not access. this case editor will stop insert video.
+		// If return undefined, mean that check failed. this case editor will stop insert video.
  		// In this case, you can customize error info.
 }
 

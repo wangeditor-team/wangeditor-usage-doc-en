@@ -9,12 +9,12 @@ const editor = new E('#div1')
 editor.config.linkCheck = function(text, link) {
         // have three case
 		
-		// 1. If return true,mean that check access.
-    return true
-		//2. If return string, mean that check not access. this case editor will stop insert link, and alert error info(that is return string)
+		// 1. If return true,mean that check passed.
+    	return true
+		//2. If return string, mean that check failed. this case editor will stop insert link, and alert error info(when return string)
         // return 'link have xxx error'
-		
-		// If return undefined, mean that check not access. this case editor will stop insert link.
+		 
+		// If return undefined, mean that check failed. this case editor will stop insert link.
  		// In this case, you can custom error info.
 }
 
