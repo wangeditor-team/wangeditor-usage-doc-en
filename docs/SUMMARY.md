@@ -37,6 +37,11 @@
     - [Onfocus And Onblur](pages/04-Callbak/02-Onfocus and onblur.md)
     - [Insert Event Of Network Image](pages/04-Callbak/03-Insert Event of Network Image.md)
     - [Insert Event Of Network Video](pages/04-Callbak/04-Insert Event of Network Video.md)
+- [Content Check](pages/05-Content check/README.md)
+
+    - [Link Check](pages/05-Content check/01-link check.md)
+    - [Network Image Check](pages/05-Content check/02-Network image check.md)
+    - [Video Check](pages/05-Content check/03-Video check.md)
 - [Paste Filter](pages/06-paste-filter/README.md)
 
     - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
