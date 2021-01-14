@@ -31,20 +31,17 @@
     - [SetEmotions](pages/03-menu/06-setEmotions.md)
     - [HightlightCode](pages/03-menu/07-hightlightCode.md)
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
-
 - [Callbak](pages/04-Callbak/README.md)
 
     - [Onchange](pages/04-Callbak/01-Onchange.md)
     - [Onfocus And Onblur](pages/04-Callbak/02-Onfocus and onblur.md)
     - [Insert Event Of Network Image](pages/04-Callbak/03-Insert Event of Network Image.md)
     - [Insert Event Of Network Video](pages/04-Callbak/04-Insert Event of Network Video.md)
-
 - [Content Check](pages/05-Content check/README.md)
 
-    - [Link Check](pages/05-Content check/01-Link Check.md)
-    - [Network Image Check](pages/05-Content check/02-Network Image Check.md)
-    - [Video Check](pages/05-Content check/03-Video Check.md)
-- [Paste Filter]()
+    - [Link Check](pages/05-Content check/01-link check.md)
+    - [Network Image Check](pages/05-Content check/02-Network image check.md)
+    - [Video Check](pages/05-Content check/03-Video check.md)
 - [Paste Filter](pages/06-paste-filter/README.md)
 
     - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
