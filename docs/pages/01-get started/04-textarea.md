@@ -1,8 +1,8 @@
-# Use textarea
+# Use Textarea
 
-WangEditor no support `textarea` ,but you can use `onchange` come true submit rich text content from `textarea`
+We can not directly submit rich text in `textarea` . Instead, you should use `editor.config.onchange` to update textarea content:
 
-```jsx
+```html
 <div id="div1">
     <p>webcomle use <b>wangEditor</b> rich text editor</p>
 </div>
