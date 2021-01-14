@@ -1,8 +1,8 @@
-# quickly expand a menu
+# Quickly expand a menu
 
 【Tip】Take the Button menu as an example to demonstrate. Other types of menus will be mentioned below, and the registration steps are the same.
 
-# prepare
+# Prepare
 
 ```
 // import wangEditor
