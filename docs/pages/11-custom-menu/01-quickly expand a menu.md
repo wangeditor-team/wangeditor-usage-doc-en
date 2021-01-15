@@ -1,4 +1,4 @@
-# Quickly expand a menu
+# Quickly Expand a Menu
 
 【Tip】Take the Button menu as an example to demonstrate. Other types of menus will be mentioned below, and the registration steps are the same.
 

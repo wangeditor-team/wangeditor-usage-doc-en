@@ -1,4 +1,4 @@
-# Event hooks in the editing area
+# Event Hooks in the Editing Area
 
 ## What it is
 
@@ -26,7 +26,7 @@ If you want to monitor various event callbacks in the editing area, such as mous
 
 For all eventHooks and the internal implementations, please refer to [code](https://github.com/wangeditor-team/wangEditor/blob/master/src/text/index.ts#L13)
 
-## How to use 
+## How to Use 
 
 Using eventHooks is very simple, for example, it is used in the [linked tooltip source code](https://github.com/wangeditor-team/wangEditor/blob/master/src/menus/link/bind-event/tooltip-event.ts). Define a function and push to the corresponding eventHooks.
 
