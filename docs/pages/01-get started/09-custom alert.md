@@ -1,8 +1,8 @@
-# Custom alert
+# Custom Alert
 
-`customAlert` can deal global alert, default option is window.alert.
+When you want customize alert that use `editor.config.customAlert` . By default, wangEditor will be invoking `window.alert`.
 
-If you feel browser  in-built alert no good, you can custom alert , that be easy unify alert style.
+You can easy to customize alert style:
 
 ```jsx
 import { message } from 'antd';

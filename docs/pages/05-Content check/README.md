@@ -1,2 +1,2 @@
-# Get Started
+# Content check
 Please refer to subdirectory.

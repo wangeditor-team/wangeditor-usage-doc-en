@@ -6,15 +6,15 @@
 
 - [Get Started](pages/01-get started/README.md)
 
-    - [Basic Usage](pages/01-get started/01-Basic Usage.md)
-    - [Edit Hight](pages/01-get started/02-edit hight.md)
-    - [Split Toolbar And Area](pages/01-get started/03-split toolbar and Area.md)
+    - [Basic Usage](pages/01-get started/01-basic usage.md)
+    - [Edit Height](pages/01-get started/02-edit height.md)
+    - [Split Toolbar And Textarea](pages/01-get started/03-split toolbar and textarea.md)
     - [Textarea](pages/01-get started/04-textarea.md)
-    - [Multiple Editor](pages/01-get started/05-multiple editor.md)
+    - [Multiple Editor Instances](pages/01-get started/05-Multiple Editor Instances.md)
     - [Zindex](pages/01-get started/06-Zindex.md)
     - [Placeholder](pages/01-get started/07-placeholder.md)
-    - [AutoFocus](pages/01-get started/08-autoFocus.md)
-    - [CustomAlert](pages/01-get started/09-customAlert.md)
+    - [Auto Focus](pages/01-get started/08-auto focus.md)
+    - [Custom Alert](pages/01-get started/09-custom alert.md)
 - [Deal Content](pages/02-deal content/README.md)
 
     - [SetContent](pages/02-deal content/01-setContent.md)
@@ -34,7 +34,19 @@
     - [SetEmotions](pages/03-menu/06-setEmotions.md)
     - [HightlightCode](pages/03-menu/07-hightlightCode.md)
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
-- [Paste Filter]()
+- [Callbak](pages/04-Callbak/README.md)
+
+    - [Onchange](pages/04-Callbak/01-Onchange.md)
+    - [Onfocus And Onblur](pages/04-Callbak/02-Onfocus and onblur.md)
+    - [Insert Event Of Network Image](pages/04-Callbak/03-Insert Event of Network Image.md)
+    - [Insert Event Of Network Video](pages/04-Callbak/04-Insert Event of Network Video.md)
+- [Content Check](pages/05-Content check/README.md)
+
+    - [Link Check](pages/05-Content check/01-link check.md)
+    - [Network Image Check](pages/05-Content check/02-Network image check.md)
+    - [Video Check](pages/05-Content check/03-Video check.md)
+- [Paste Filter](pages/06-paste-filter/README.md)
+
     - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
     - [IgnorePictures](pages/06-paste-filter/02-ignorePictures.md)
     - [CustomPastedContent](pages/06-paste-filter/03-customPastedContent.md)

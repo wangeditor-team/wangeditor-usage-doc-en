@@ -1,2 +1,2 @@
-# Get Started
+# Paste Filter
 Please refer to subdirectory.
