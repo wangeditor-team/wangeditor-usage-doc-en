@@ -1,4 +1,7 @@
 
+## Images
+
+
 ## Pages
 
 - [Get Started](pages/01-get started/README.md)
@@ -31,3 +34,7 @@
     - [SetEmotions](pages/03-menu/06-setEmotions.md)
     - [HightlightCode](pages/03-menu/07-hightlightCode.md)
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
+- [Paste Filter]()
+    - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
+    - [IgnorePictures](pages/06-paste-filter/02-ignorePictures.md)
+    - [CustomPastedContent](pages/06-paste-filter/03-customPastedContent.md)
