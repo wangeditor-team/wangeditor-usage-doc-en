@@ -48,7 +48,7 @@
 - [Paste Filter](pages/06-paste-filter/README.md)
 
     - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
-    - [IgnorePictures](pages/06-paste-filter/02-ignorePictures.md)
+    - [IgnoreImages](pages/06-paste-filter/02-ignoreImages.md)
     - [CustomPastedContent](pages/06-paste-filter/03-customPastedContent.md)
 - [Upload Images](pages/07-upload images/README.md)
 
@@ -66,10 +66,12 @@
     - [Hide Inserted Network Image](pages/07-upload images/12-hide inserted network image.md)
     - [Upload Img To Oss](pages/07-upload images/13-upload-img-to-oss.md)
 - [API](pages/08-API/README.md)
- 
     - [Editor Attrs](pages/08-API/01-editor-attrs.md)
     - [Selection Api](pages/08-API/02-selection-api.md)
     - [Content Api](pages/08-API/03-content-api.md)
     - [Disable Editor](pages/08-API/04-disable-editor.md)
     - [Destroy Editor](pages/08-API/05-destroy-editor.md)
-    - [Scroll to Head](pages/08-API/scroll-to-head.md)
+    - [Scroll To Head](pages/08-API/scroll-to-head.md)
+- [Vue And React](pages/09-Vue and React/README.md)
+
+- [Using Typescript](pages/10-Using Typescript/README.md)
