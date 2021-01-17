@@ -71,7 +71,7 @@
     - [Content Api](pages/08-API/03-content-api.md)
     - [Disable Editor](pages/08-API/04-disable-editor.md)
     - [Destroy Editor](pages/08-API/05-destroy-editor.md)
-    - [Scroll To Head](pages/08-API/scroll-to-head.md)
+    - [Scroll To Head](pages/08-API/06-scroll-to-head.md)
 - [Vue And React](pages/09-Vue and React/README.md)
 
 - [Using Typescript](pages/10-Using Typescript/README.md)
