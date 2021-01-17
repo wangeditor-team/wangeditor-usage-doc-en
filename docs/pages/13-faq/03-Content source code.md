@@ -1,5 +1,5 @@
-# Content Source Code
-Editor not support 'check source code' and 'edit source code', but you can implement by your self.
+# View and Edit Source Code
+Editor not support 'check source code' and 'edit source code', but you can implement by yourself.
 We can check and edit content html source code by follow steps:
 
 - Create a `<button>`, get the content html by `editor.txt.html` when click.
