@@ -31,3 +31,4 @@
 ## 坑
 
 - `docs` 目录下，图片文件夹之前叫 `_images` ，但是在 github pages 中图片不显示，返回 404 。改成 `images` 就好了。可能是 `_` 开头的文件夹，下面的文件就不公开。
+- `npm run build`前，请确认下node版本，高于10x的版本会出现`TypeError: cb.apply is not a function`的错误，建议在使用时将node版本切换到10x的版本。
