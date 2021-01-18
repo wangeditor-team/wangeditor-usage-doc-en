@@ -2,7 +2,7 @@
 
 Rich text editor is easily attacted by attackers.
 
-We recommand use [xss](https://www.npmjs.com/package/xss) tool.
+We recommand use [xss](https://www.npmjs.com/package/xss).
 
 ```javascript
 const html = editor.txt.html()
