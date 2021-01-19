@@ -34,6 +34,15 @@
     - [SetEmotions](pages/03-menu/06-setEmotions.md)
     - [HightlightCode](pages/03-menu/07-hightlightCode.md)
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
+- [Paste Filter]()
+    - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
+    - [IgnorePictures](pages/06-paste-filter/02-ignorePictures.md)
+    - [CustomPastedContent](pages/06-paste-filter/03-customPastedContent.md)
+- [Faq](pages/13-faq/README.md)
+
+    - [Maxlength](pages/13-faq/01-Maxlength.md)
+    - [XSS](pages/13-faq/02-XSS.md)
+    - [Content Source Code](pages/13-faq/03-Content source code.md)
 - [Callbak](pages/04-Callbak/README.md)
 
     - [Onchange](pages/04-Callbak/01-Onchange.md)
