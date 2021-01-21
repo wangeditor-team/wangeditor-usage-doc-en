@@ -34,15 +34,6 @@
     - [SetEmotions](pages/03-menu/06-setEmotions.md)
     - [HightlightCode](pages/03-menu/07-hightlightCode.md)
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
-- [Paste Filter]()
-    - [SetStyleFilter](pages/06-paste-filter/01-setStyleFilter.md)
-    - [IgnorePictures](pages/06-paste-filter/02-ignorePictures.md)
-    - [CustomPastedContent](pages/06-paste-filter/03-customPastedContent.md)
-- [Faq](pages/13-faq/README.md)
-
-    - [Maxlength](pages/13-faq/01-Maxlength.md)
-    - [XSS](pages/13-faq/02-XSS.md)
-    - [Content Source Code](pages/13-faq/03-Content source code.md)
 - [Callbak](pages/04-Callbak/README.md)
 
     - [Onchange](pages/04-Callbak/01-Onchange.md)
@@ -85,3 +76,18 @@
 - [Vue And React](pages/09-Vue and React/README.md)
 
 - [Using Typescript](pages/10-Using Typescript/README.md)
+
+- [Custom Menu](pages/11-custom-menu/README.md)
+
+    - [Quickly Expand A Menu](pages/11-custom-menu/01-quickly expand a menu.md)
+    - [Button Menu](pages/11-custom-menu/02-Button menu.md)
+    - [DropList Menu](pages/11-custom-menu/03-DropList menu.md)
+    - [Panel Menu](pages/11-custom-menu/04-Panel menu.md)
+    - [Custom Tooltip](pages/11-custom-menu/05-custom tooltip.md)
+    - [Event Hooks](pages/11-custom-menu/06-event hooks.md)
+    - [More Reference](pages/11-custom-menu/07-more reference.md)
+- [FQA](pages/13-FQA/README.md)
+
+    - [Maxlength](pages/13-FQA/01-Maxlength.md)
+    - [XSS](pages/13-FQA/02-XSS.md)
+    - [Content Source Code](pages/13-FQA/03-Content source code.md)
