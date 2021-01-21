@@ -1,2 +1,2 @@
-# Get Started
+# FAQ
 Please refer to subdirectory.
