@@ -37,7 +37,7 @@ editor.create()
 
 ```
 
-## Custom language
+## Custom Language
 
 Only Chinese and English are not enough. For this reason, we provide custom language functions.
 
