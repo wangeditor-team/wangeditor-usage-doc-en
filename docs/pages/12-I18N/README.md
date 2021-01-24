@@ -1,6 +1,6 @@
 # I18N
 
-> By default, wangEditor does not provide the I18n function, because it can cause the package to bigger.
+> By default, wangEditor does not provide the I18n function, because it can make the package too bigger.
 
 ## Load I18next
 
@@ -23,7 +23,7 @@ editor.create()
 
 ## Using I18next
 
-You can use `editor.config.lang` set I18n when before editor create. Currently, we provide 'zh-CN'(Chinese) and 'en'(English) two ways.
+You can use `editor.config.lang` set I18n before editor create. Currently, we provide 'zh-CN'(Chinese) and 'en'(English) two ways.
 
 ```
 const E = window.wangEditor
