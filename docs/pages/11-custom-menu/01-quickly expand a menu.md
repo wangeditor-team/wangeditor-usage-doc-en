@@ -59,20 +59,46 @@ class AlertMenu extends BtnMenu {
 
 # Register Menu
 
-```
-const editor = new E('#div1')
+[Tips]It's recommended to use the global mode to register the menu. If there are multiple editors and the custom menu of each editor is different, using the Instance mode to register the menu.
 
+## Global Mode
+
+```
 // register menu 
 const menuKey = 'alertMenuKey' // menu key ，must be unique
 
-editor.menus.extend('alertMenuKey', AlertMenu)
+E.registerMenu(menuKey, AlertMenu)
+
+const editor = new E('#div1')
+editor.create()
+    
+const editor2 = new E('#div2')
+editor2.create()
+```
+
+## Instance Mode
+
+```
+const menuKey = 'alertMenuKey'  // menu key ，must be unique
+const menuKey2 = 'alertMenuKey2'
+
+const editor = new E('#div1')
+// register menu 
+editor.menus.extend(menuKey, AlertMenu)
 
 // put menu in  editor.config.menus 
 // You can also adjust the order of the menus through the configuration menus, refer to the document in the [Configuration Menu] section
+//editor.config.menus.push(menuKey)
 editor.config.menus = editor.config.menus.concat(menuKey)
 
 // After registering the menu, then create the editor, the order is very important
 editor.create()
+
+const editor2 = new E('#div2')
+editor2.menus.extend(menuKey2, AlertMenu)
+editor2.config.menus.push(menuKey2)
+editor2.create()
+
 
 ```
 ![custom-button-menu.png](../../images/custom-button-menu.png)
