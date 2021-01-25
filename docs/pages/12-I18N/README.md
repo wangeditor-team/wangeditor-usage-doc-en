@@ -23,7 +23,7 @@ editor.create()
 
 ## Using I18next
 
-You can use `editor.config.lang` to set I18n before editor create. Currently, we provide 'zh-CN'(Chinese) and 'en'(English) two ways.
+You can use `editor.config.lang` to set I18n before editor create. Currently,  we only provide two translations:'zh-CN' (Simplified Chinese) and'en' (English).
 
 ```
 const E = window.wangEditor
@@ -61,7 +61,7 @@ editor.create()
 
 ## Language Template
 
-You need to translate according to the language template in the lower part if you want to customize the language.
+If you want to customize the language, you need to translate it according to the following template.
 
 ```json
 {
