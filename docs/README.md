@@ -44,7 +44,7 @@ It support most of modern browsers: Chrome, Firefox, Safar, Edge, QQ, IE11 and s
 
 It doesn't support mobile browers.
 
-![Product Name Screen Shot](./docs/images/demo.jpg)
+![Product Name Screen Shot](./images/demo.jpg)
 
 ## Usage
 
