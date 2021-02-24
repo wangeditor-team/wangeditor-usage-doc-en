@@ -1,5 +1,3 @@
-# WangEditor
-
 <!-- Badge -->
 ![Forks badge](https://img.shields.io/badge/Forks-2.4k-green)
 ![Stars badge](https://img.shields.io/badge/stars-10.8K-brightgreen)
@@ -25,7 +23,7 @@
     <a href="https://doc.wangeditor.com/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://doc.wangeditor.com/">Chinese Docs</a>
+    <a href="https://doc.wangeditor.com/">中文文档</a>
     ·
     <a href="https://codepen.io/collection/DNmPQV">View Demo</a>
     ·
