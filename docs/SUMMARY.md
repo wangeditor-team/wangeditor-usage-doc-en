@@ -86,6 +86,8 @@
     - [Custom Tooltip](pages/11-custom-menu/05-custom tooltip.md)
     - [Event Hooks](pages/11-custom-menu/06-event hooks.md)
     - [More Reference](pages/11-custom-menu/07-more reference.md)
+- [I18N](pages/12-I18N/README.md)
+
 - [FQA](pages/13-FQA/README.md)
 
     - [Maxlength](pages/13-FQA/01-Maxlength.md)

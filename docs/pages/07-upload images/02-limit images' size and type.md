@@ -11,3 +11,14 @@ You can push the accepted types in `uploadImgAccept` array.
 ```javascript
 editor.config.uploadImgAccept = ['jpg', 'jpeg', 'png', 'gif', 'bmp']
 ```
+
+
+The default accepted types are:
+```javascript
+['jpg', 'jpeg', 'png', 'gif', 'bmp']
+```
+
+If you want the types to be unlimited, you can set an empty array.
+```javascript
+editor.config.uploadImgAccept = []
+```
