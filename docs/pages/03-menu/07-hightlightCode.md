@@ -29,7 +29,7 @@ If you use CDN, `highlight.js` declare `hljs` variable under `window` object, yo
 **By NPM:**
 
 ```js
-import 'highlight.js/styles/monokai_sublime.css'
+import 'highlight.js/styles/monokai-sublime.css'
 ```
 **By CDN:**
 
