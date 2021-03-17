@@ -34,6 +34,7 @@
     - [SetEmotions](pages/03-menu/06-setEmotions.md)
     - [HightlightCode](pages/03-menu/07-hightlightCode.md)
     - [SetFullScreen](pages/03-menu/08-setFullScreen.md)
+    - [SetMenuTooltip](pages/03-menu/09-setMenuTooltip.md)
 - [Callbak](pages/04-Callbak/README.md)
 
     - [Onchange](pages/04-Callbak/01-Onchange.md)
