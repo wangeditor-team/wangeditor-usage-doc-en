@@ -2,7 +2,7 @@
 
 if you want to upload images from the media library, you can use the following code.
 
-<span style="color: red;">Note:</span> if you set the setting with upload images from the media library and upload images from the local at the same time, <span style="color: red;">upload images from the local will be a failure.</span>
+<span style="color: red;">Note:</span> if you set the setting with upload images from the media library and local upload at the same time, <span style="color: red;">local upload will be invalid.</span>
 
 ``` javascript
 editor.config.uploadImgFromMedia = function () {
