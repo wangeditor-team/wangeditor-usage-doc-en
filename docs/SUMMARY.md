@@ -66,6 +66,7 @@
     - [Save Images In Base64 Format](pages/07-upload images/11-save images in base64 format.md)
     - [Hide Inserted Network Image](pages/07-upload images/12-hide inserted network image.md)
     - [Upload Img To Oss](pages/07-upload images/13-upload-img-to-oss.md)
+    - [Upload Image From Media Library](pages/07-upload images/14-upload image from media library.md)
 - [API](pages/08-API/README.md)
 
     - [Editor Attrs](pages/08-API/01-editor-attrs.md)
