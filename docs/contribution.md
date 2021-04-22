@@ -15,14 +15,14 @@ We welcome non-team members to contribute code, and we will review and merge the
 When submitting a Pull Request, make sure to state the purpose of your change please. Templates can refer to:
 
 ```md
-## What's the problem
+## What's the Problem
 
 *Please describe the problem in detail, or post an issue link*
 
-## What are your expectations
+## What are your Expectations
 *Please describe in detail, what it looks like after you modify the code*
 
-## Have you conducted a detailed self-test?
+## Have you Conducted a Detailed Self-test?
 *Yes/No*
 
 ```
