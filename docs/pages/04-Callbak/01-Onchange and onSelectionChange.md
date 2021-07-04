@@ -26,7 +26,7 @@ editor.create()
 
 v4.7.5+
 
-When the `onSelectionChange` function set,the user's selection operation (mouse select text, Ctrl + a select all, etc.) will automatically trigger the `onSelectionChange` function to execute
+When the `onSelectionChange` function set,the user's selection operation (mouse select text, Ctrl + a select all ...) will automatically trigger the `onSelectionChange` function 
 
 Three callback parameters are `text`, `HTML` and `selection`, which are `currently selected text`, `currently selected HTML` and `native selection object`
 
