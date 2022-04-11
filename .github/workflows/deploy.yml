@@ -46,6 +46,6 @@ jobs:
         echo "---------- end git status ----------"
         git add .
         git commit -m "update by github actions"
-        git push origin master
+        git push origin main
     - name: delete ssh key # 删除 ssh key
       run: rm -rf ~/.ssh/id_rsa
