@@ -13,7 +13,7 @@
     <img src="http://www.wangeditor.com/imgs/logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">wangEditor</h3>
+  <h3 align="center">wangEditor4</h3>
 
   <p align="center">
     A lightweight rich text editor, friendly API and use extremely conventient.
@@ -42,7 +42,7 @@ Current document is for **wangEditor v4**.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-wangEditor is a web rich text editor that use typescript develop. It's lightweight, simple, use convience and open source.
+wangEditor4 is a web rich text editor that use typescript develop. It's lightweight, simple, use convience and open source.
 
 It support most of modern browsers: Chrome, Firefox, Safar, Edge, QQ, IE11 and so on.
 
