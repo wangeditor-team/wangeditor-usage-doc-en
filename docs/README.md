@@ -20,10 +20,10 @@
     <br />
     <a href="http://www.wangeditor.com"><strong>Offical website</strong></a>
     ·
-    <a href="https://doc.wangeditor.com/"><strong>Explore the docs »</strong></a>
+    <a href="https://www.wangeditor.com/v4-en/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://doc.wangeditor.com/">中文文档</a>
+    <a href="https://www.wangeditor.com/v4/">中文文档</a>
     ·
     <a href="https://codepen.io/collection/DNmPQV">View Demo</a>
     ·
@@ -32,6 +32,12 @@
     <a href="https://github.com/wangeditor-team/wangEditor/issues/new?template=feature.md">Request Feature</a>
   </p>
 </p>
+
+## Attention
+
+Current document is for **wangEditor v4**.
+
+**[wangEditor v5](https://www.wangeditor.com/)** has published, which is recommended to use.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project

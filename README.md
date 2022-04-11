@@ -1,5 +1,5 @@
-# wangEditor-users-doc-en
+# wangEditor v4 usage doc
 
-wangEditor document https://doc-en.wangeditor.com/
+wangEditor document https://www.wangeditor.com/v4-en
 
 开发文档参考 [DEV.md](./DEV.md)

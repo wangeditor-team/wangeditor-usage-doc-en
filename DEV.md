@@ -4,6 +4,8 @@
 
 ## 启动项目
 
+【注意】nodejs 切换到 v10 版本，否则运行会报错。
+
 - git clone 项目
 - 安装插件 `npm install`
 - 启动 `npm run dev`
